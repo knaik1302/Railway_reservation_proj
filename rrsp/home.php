@@ -20,6 +20,6 @@
                 </div>
             </div>
         </div>
-        <footer style="color: aliceblue;background-color: crimson;margin-top:40px; padding:0.05px;"><p style="margin-left: 20px;">Created by: Kartik V Naik and Hawaralu Vignesh</p> </footer>
+        <footer style="color: aliceblue;background-color: crimson;margin-top:40px; padding:0.05px;"><p style="margin-left: 20px;">Created by: Kartik V Naik and my partner</p> </footer>
     </body>
 </html>
