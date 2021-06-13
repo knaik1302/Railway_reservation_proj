@@ -1,0 +1,9 @@
+body{
+    /* width: 1200px;
+    height: 460px; */
+    background-image: url('Screenshot (92).png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    /* margin: 0px auto; */
+}
