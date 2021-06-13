@@ -9,4 +9,4 @@ I have used XAMPP sever to access database and to use php.
 You have to create a database using XAMPP. I have attatched screenshot of created database and its ER realation.
 
 But there are a lot of repeated codes.
-If you have a two or more account and using one of them you booked ticket, then you can see this booked ticket from other account. That's not Good!! It doesn't have a session time.
+If you have a two or more account and used to book a ticket using one of your account, then you can see booked ticket from other account. That's not Good!! It doesn't have a user session time.
